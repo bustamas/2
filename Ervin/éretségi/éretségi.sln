@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "éretségi", "éretségi\éretségi.csproj", "{BDADE7B1-0BE7-4F00-AE5B-0D4E6E6E5965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDADE7B1-0BE7-4F00-AE5B-0D4E6E6E5965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDADE7B1-0BE7-4F00-AE5B-0D4E6E6E5965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDADE7B1-0BE7-4F00-AE5B-0D4E6E6E5965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDADE7B1-0BE7-4F00-AE5B-0D4E6E6E5965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2FF53C-FF57-4409-B8E7-9B4D51B599DB}
+	EndGlobalSection
+EndGlobal

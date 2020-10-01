@@ -1,0 +1,6 @@
+Z:\2020_2021\Ervin\éretségi\éretségi\bin\Debug\éretségi.exe.config
+Z:\2020_2021\Ervin\éretségi\éretségi\bin\Debug\éretségi.exe
+Z:\2020_2021\Ervin\éretségi\éretségi\bin\Debug\éretségi.pdb
+Z:\2020_2021\Ervin\éretségi\éretségi\obj\Debug\éretségi.csprojAssemblyReference.cache
+Z:\2020_2021\Ervin\éretségi\éretségi\obj\Debug\éretségi.exe
+Z:\2020_2021\Ervin\éretségi\éretségi\obj\Debug\éretségi.pdb
